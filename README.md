@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Interesting Projects (TM)
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love making simple/cheap microcontrollers do incredible things
+- ⚡ Fun fact: I love making simple/cheap hardware do incredible things
 
 <!---
 JSC-Starcat/JSC-Starcat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
