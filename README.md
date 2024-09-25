@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JSC-Starcat
 - 👀 I’m interested in Sailing, Electronics, IoT
-- 🌱 I’m currently learning to bacome a better coder
+- 🌱 I’m currently learning to become a better coder
 - 💞️ I’m looking to collaborate on Interesting Projects (TM)
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
